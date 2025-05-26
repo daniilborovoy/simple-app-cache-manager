@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace = "com.seedmetrics.simple_cache_manager"
+    namespace = "com.example.simple_app_cache_manager_example"
     compileSdkVersion 31
 
     compileOptions {
